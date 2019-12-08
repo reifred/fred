@@ -252,6 +252,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
    margin: 0 10px 10px 0;
    text-decoration: none;
+   transition: color 0.2s;
    -webkit-transition: color 0.2s;
  }
  
@@ -483,7 +484,11 @@ ul#nav li.current a { color: #F06000; }
 .flexslider .slides > li { position: relative; }
 
 /* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
+.flexslider .slides > li { 
+   display: none;
+   backface-visibility: hidden;
+   -webkit-backface-visibility: hidden;
+}
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container { zoom: 1; position: relative; }
 
