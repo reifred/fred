@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"Mugerwa Fred",
+    "occupation":"Fullstack Developer",
+    "description":"I have industry experience building websites and web applications in both distributed and non distributed teams.",
+    "image":"fred.jpg",
+    "bio":"A quality and results-oriented Fullstack developer with experience in analysis, design, development, testing, and implementation of various web based applications. Skilled at team collaboration while working independently in remote environments.",
+    "contactmessage":"today is goodHere is where you should write your message to readers to have them get in contact with you.",
+    "email": "reifred33@gmail.com",
+    "phone": "+256-757-605424",
+    "address":{
+      "city":"Kampala",
+      "country": "Uganda"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/jeff.r.fred",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mugerwafred/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/reifred",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"medium",
+        "url":"https://medium.com/@reifred33",
+        "className":"fa fa-medium"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Author's Haven",
+        "category":"A Social platform for the creative at heart. This application is a clone of Medium",
+        "image":"authors-haven.png",
+        "frontend":"https://github.com/reifred/ah-frontend-kronos",
+        "backend": "https://github.com/reifred/ah-django-Aqua",
+        "site_url": "#"
+      },
+      {
+        "title":"Wger Workout Manager clone",
+        "category":"wger (ˈvɛɡɐ) is a free, open source web application that manages your exercises and personal workouts, weight and diet plans.",
+        "image":"wger.png",
+        "frontend":"https://github.com/reifred/wger-kronos",
+        "backend": "https://github.com/reifred/wger-kronos",
+        "site_url": "#"
+      },
+      {
+        "title":"FYYUR",
+        "category":"Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.",
+        "image":"fyyur.png",
+        "frontend":"https://github.com/reifred/fyyur",
+        "backend": "https://github.com/reifred/fyyur",
+        "site_url": "#"
+      },
+      {
+        "title":"EZYAGRIC",
+        "category":"EzyAgric is an on-demand web and mobile platform that provides inclusive and data-driven access to production, marketing, and finance services to farmers and agribusinesses in Uganda. Through EzyAgric farmers map their gardens to attain accurate, genuine inputs and services, farm records, finance and markets that pay for quality. The agribusinesses use EzyAgric to predict demand and supply, manage the traceability of their farmers and as well as transaction records.",
+        "image":"ezyagric.png",
+        "frontend":"#",
+        "backend": "#",
+        "site_url": "#"
+      },
+      {
+        "title":"Trivia",
+        "category":"A question and answer platform.",
+        "image":"udacitrivia.png",
+        "frontend":"https://github.com/reifred/trivia/tree/master/frontend",
+        "backend": "https://github.com/reifred/trivia/tree/master/backend",
+        "site_url": "#"
+      },
+      {
+        "title":"Coffee Shop",
+        "category":"A new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.",
+        "image":"coffee-shop.png",
+        "frontend":"https://github.com/reifred/coffee-shop/tree/master/frontend",
+        "backend": "https://github.com/reifred/coffee-shop/tree/master/backend",
+        "site_url": "#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"In his team of developers, Fred was the heart of the project in a way that he took on any task and was always part of the problem solving process for any problem that arose soft or technical. Fred's amazing software development talent and will to learn fast is what makes him the great world class developer that he is. Am quite sure that his passion and great ambition to change the world through writing code will lead him to great success.",
+        "user":"David Buyinza. Former Learning Facilitator at Andela."
+      },
+      {
+        "text":"He is a very motivated and talented individual, fully dedicated to his work, delivers maximum results with minimum or no supervision, learns new things quickly and has demonstrated great skill during my time working with him.",
+        "user":"Oghenefejiro Jackson Okagbare. Former Technical Team Lead at Andela"
+      }
+    ]
+  }
+}
