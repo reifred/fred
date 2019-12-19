@@ -38,12 +38,44 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Mutaniks",
+        "category":"Mutaniks technologies company website",
+        "image":"mutanik.PNG",
+        "frontend":"#private",
+        "backend": "#private",
+        "site_url": "https://www.mutanik.com/"
+      },
+      {
+        "title":"St Theresa Secondary School",
+        "category":"St. Theresa Secondary School website",
+        "image":"theresa.PNG",
+        "frontend":"#private",
+        "backend": "#private",
+        "site_url": "https://www.sttheresasecondaryschool.com/"
+      },
+      {
+        "title":"Makewish Tech Solutions",
+        "category":"Makewish Tech Solutions company website",
+        "image":"makewish.PNG",
+        "frontend":"https://github.com/MakeWish/makewishsite/tree/ft-home-page-168703921",
+        "backend": "https://github.com/MakeWish/makewishsite/tree/ft-home-page-168703921",
+        "site_url": "https://makewishtech.herokuapp.com/"
+      },
+      {
+        "title":"Interconn",
+        "category":"Interconn company Website",
+        "image":"interccon.PNG",
+        "frontend":"#private",
+        "backend": "#private",
+        "site_url": "http://interconn.herokuapp.com/"
+      },
+      {
         "title":"Author's Haven",
         "category":"A Social platform for the creative at heart. This application is a clone of Medium",
         "image":"authors-haven.PNG",
         "frontend":"https://github.com/reifred/ah-frontend-kronos",
         "backend": "https://github.com/reifred/ah-django-Aqua",
-        "site_url": "#portfolio"
+        "site_url": "#private"
       },
       {
         "title":"Wger Workout Manager clone",
@@ -51,7 +83,7 @@
         "image":"wger.PNG",
         "frontend":"https://github.com/reifred/wger-kronos",
         "backend": "https://github.com/reifred/wger-kronos",
-        "site_url": "#portfolio"
+        "site_url": "#private"
       },
       {
         "title":"FYYUR",
@@ -59,15 +91,7 @@
         "image":"fyyur.PNG",
         "frontend":"https://github.com/reifred/fyyur",
         "backend": "https://github.com/reifred/fyyur",
-        "site_url": "#portfolio"
-      },
-      {
-        "title":"EZYAGRIC",
-        "category":"EzyAgric is an on-demand web and mobile platform that provides inclusive and data-driven access to production, marketing, and finance services to farmers and agribusinesses in Uganda. Through EzyAgric farmers map their gardens to attain accurate, genuine inputs and services, farm records, finance and markets that pay for quality. The agribusinesses use EzyAgric to predict demand and supply, manage the traceability of their farmers and as well as transaction records.",
-        "image":"ezyagric.PNG",
-        "frontend":"#portfolio",
-        "backend": "#portfolio",
-        "site_url": "#portfolio"
+        "site_url": "#private"
       },
       {
         "title":"Trivia",
@@ -75,7 +99,7 @@
         "image":"udacitrivia.PNG",
         "frontend":"https://github.com/reifred/trivia/tree/master/frontend",
         "backend": "https://github.com/reifred/trivia/tree/master/backend",
-        "site_url": "#portfolio"
+        "site_url": "#private"
       },
       {
         "title":"Coffee Shop",
@@ -83,7 +107,7 @@
         "image":"coffee-shop.PNG",
         "frontend":"https://github.com/reifred/coffee-shop/tree/master/frontend",
         "backend": "https://github.com/reifred/coffee-shop/tree/master/backend",
-        "site_url": "#portfolio"
+        "site_url": "#private"
       }
     ]
   },
